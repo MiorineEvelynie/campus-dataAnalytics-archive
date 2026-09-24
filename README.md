@@ -94,3 +94,9 @@ GridSearchCV produced the best-performing model, though the improvement over the
 2. Install dependencies: `pip install pandas numpy matplotlib seaborn scipy scikit-learn`
 3. Ensure the dataset (`car_prices.csv` / `dataset.xlsx`) is in the same directory as `Code.ipynb`.
 4. Open and run `Code.ipynb` in Jupyter Notebook or JupyterLab.
+
+## Team & Contributions
+This project was collaboratively developed by:
+*   **Ofa Sofwatan Munifa:** Report Creation and Data Processing
+*   **Herrick Fabian:** Report Creation and Data Processing.
+*   **Raymond Widjaja:** Report Creation and Data Processing.
